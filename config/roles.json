@@ -1,0 +1,26 @@
+{
+    "developer": {
+        "repositories": [
+            "git@github.com:indoria/auth-service.git",
+            "git@github.com:indoria/timer-app.git"
+        ]
+    },
+    "admin": {
+        "repositories": [
+            "git@github.com:indoria/auth-service.git",
+            "git@github.com:indoria/notification-service.git",
+            "git@github.com:indoria/metronome-app.git"
+        ]
+    },
+    "basic_user": {
+        "repositories": [
+            "git@github.com:indoria/timer-app.git",
+            "git@github.com:indoria/metronome-app.git"
+        ]
+    },
+    "app_frontend_setup": {
+        "repositories" : [
+            "git@github.com:indoria/io-app-frontend-framework"
+        ]
+    }
+}
